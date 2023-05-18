@@ -1,0 +1,3 @@
+﻿  Task_variant14.cpp
+E:\Учеба\4 курс 2 семестр\ТРСТХО\GP\Task_variant14\Task_variant14\Task_variant14.cpp(53,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Task_variant14.vcxproj -> E:\Учеба\4 курс 2 семестр\ТРСТХО\GP\Task_variant14\x64\Debug\Task_variant14.exe
